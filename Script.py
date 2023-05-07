@@ -1,20 +1,30 @@
 class script(object):   
     HELP_TXT = """𝙷𝙴𝚈 {}\n𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
 
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/mr_MKN>𝙈𝙧.𝙈𝙆𝙉 𝙏𝙂</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙰𝙽𝚈𝚆𝙷𝙴𝚁𝙴
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁-𝙱𝙾𝚃 𝚟3.0.0"""
+    ABOUT_TXT = """<b>🙋‍♂️ I Aᴍ </b>: <a href=https://t.me/BorutoAutoFilterRobot>Bᴏʀᴜᴛᴏ</a>
+<b>👨‍💻 Cʀᴇᴀᴛᴏʀ</b>: <a href=https://github.com/KisaraPesanjithPerera>★彡ᕲᗩᖇᖶᕼ ᐺᗩᕲᘿᖇ彡★</a>
+<b>🌶 Pᴏᴡᴇʀᴇᴅ By</b>: @AnonymousBotsInfinity
 
-    SOURCE_TXT = """<b>NOTE:</b>
-- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://github.com/MrMKN/PROFESSOR-BOT>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑-𝐁𝐎𝐓</a>
+<b>◇───────────────◇</b>
 
-<b>DEVS:</b>
-- 𝙳𝚎𝚟 1<a href=https://t.me/mr_MKN>𝙼𝚛.𝙼𝙺𝙽 𝚃𝙶</a>
-- 𝙳𝚎𝚟 2<a href=https://t.me/AboutAadhi>𝙰𝙰𝙳𝙷𝙸</a>"""
+🎲 <b>Sᴇʀᴠᴇʀ</b> : Hᴇʀᴏᴋᴜ
+🧩 <b>Lᴀɴɢᴜᴀɢᴇ</b> : Pyᴛʜᴏɴ
+📚 <b>Lɪʙʀᴀʀy</b> : Pyʀᴏɢʀᴀᴍ
+📝 <b>Bᴜɪʟᴅ Sᴛᴀᴛᴜꜱ</b> : V1.0.1 [ Bᴇᴛᴀ ]"""
+
+    SOURCE_TXT = """<b>Credit 🌟</b>
+    
+Bᴏʀᴜᴛᴏ Is A Auto Filter Bot As Well As One Bot In Telegram That Can Download Movies & Series Inline📝
+
+- <b>Developer 👨‍💻</b>
+<b>★彡ᕲᗩᖇᖶᕼ ᐺᗩᕲᘿᖇ彡★</b>
+
+- <b>Thanks To 👑</b>
+<b>🏷️ Dan</b> For His Awsome Libary
+<b>🏷️ Mahesh</b> For His Awesome Media-Search-bot
+<b>🏷️ Trojanz</b> for Their Awesome Unlimited Filter Bot And AutoFilterBoT
+
+⚙️𝗣𝗼𝘄𝗲𝗿𝗱 𝗕𝘆 :- @AnonymousBotsInfinity"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
@@ -147,11 +157,19 @@ these are the extra features of this bot
 • /delallg - <code>ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀʟʟ ɢʟᴏʙᴀʟ ꜰɪʟᴛᴇʀꜱ</code>
 """
 
-    STATUS_TXT = """<b>᚛› 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code></b>
-<b>᚛› 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code></b>
-<b>᚛› 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code></b>
-<b>᚛› 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝙱</b>
-<b>᚛› 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝙱</b>"""
+    STATUS_TXT = """<b>My Sᴛᴀᴛᴜꜱ</b> 🤗
+    
+📂 <b>Tᴏᴛᴀʟ Mᴏᴠɪᴇ Sᴀᴠᴇᴅ</b> : <code>{}</code>
+👤 <b>Tᴏᴛᴀʟ Uꜱᴇʀꜱ</b> : <code>{}</code>
+📝 <b>Tᴏᴛᴀʟ Gʀᴏᴜᴩꜱ</b> : <code>{}</code>
+🔰 <b>Uꜱᴇᴅ Sᴩᴀᴄᴇ</b> : <code>{}</code> MB
+🗃️ <b>Fʀᴇᴇ Sᴩᴀᴄᴇ</b> : <code>{}</code> MB
+
+<b>◇───────────────◇</b>
+
+<b>My Sᴇʀᴠᴇʀ Sᴛᴀᴛᴜꜱ</b> 🍀
+<b>💻 Cᴩᴜ Uꜱᴀɢᴇ</b> : {}%
+<b>☄️ Rᴀᴍ Uꜱᴀɢᴇ</b> : {}%"""
     LOG_TEXT_G = """#𝐍𝐞𝐰𝐆𝐫𝐨𝐮𝐩
     
 <b>᚛› 𝐆𝐫𝐨𝐮𝐩 ⪼ {a}(<code>{b}</code>)</b>
@@ -186,9 +204,7 @@ By @{} """
 
 ➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
 
-➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
-
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/mr_MKN>Mr.MKN TG</a>"""
+➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨"""
 
     RESTRIC_TXT = """➤ 𝐇𝐞𝐥𝐩: Mᴜᴛᴇ 🚫
 
